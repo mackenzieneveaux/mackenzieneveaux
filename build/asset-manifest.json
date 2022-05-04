@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react_portfolio/static/css/main.c94629e0.css",
+    "main.js": "/react_portfolio/static/js/main.ffffe101.js",
+    "static/media/wave.mp4": "/react_portfolio/static/media/wave.ef6251317208730fe4f5.mp4",
+    "static/media/img_5.png": "/react_portfolio/static/media/img_5.b1e6c2c2174e64e19018.png",
+    "static/media/img_2.png": "/react_portfolio/static/media/img_2.7fc46f82e4c3946d0259.png",
+    "static/media/img_3.png": "/react_portfolio/static/media/img_3.4ed6ac04f1c1963d2a7f.png",
+    "static/media/computer.png": "/react_portfolio/static/media/computer.da3f0654c27d1c9d6f4d.png",
+    "static/media/img_1.png": "/react_portfolio/static/media/img_1.657af99fd019b8b64ebd.png",
+    "static/media/img_4.png": "/react_portfolio/static/media/img_4.d9de4911d6fb80510e9b.png",
+    "static/media/pink.png": "/react_portfolio/static/media/pink.dc7f194d4c9b011490f3.png",
+    "static/media/mail.png": "/react_portfolio/static/media/mail.d0a30300decb387b29f8.png",
+    "static/media/ChocoladineDemo.ttf": "/react_portfolio/static/media/ChocoladineDemo.bb6b57ea157c10c752f0.ttf",
+    "static/media/phone.png": "/react_portfolio/static/media/phone.a9c6ead366fcd6a74dac.png",
+    "static/media/address.png": "/react_portfolio/static/media/address.40a61ae5d0422bec045d.png",
+    "static/media/sun.png": "/react_portfolio/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/moon.png": "/react_portfolio/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/react_portfolio/index.html",
+    "main.c94629e0.css.map": "/react_portfolio/static/css/main.c94629e0.css.map",
+    "main.ffffe101.js.map": "/react_portfolio/static/js/main.ffffe101.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c94629e0.css",
+    "static/js/main.ffffe101.js"
+  ]
+}
