@@ -22,11 +22,12 @@ const App = () => {
     >
       <Toggle />
       <Splash />
-      <Intro />
+      <Intro/>
       <Portfolio/>
       <Contact />
       <Footer/>
       {/* <Resume/> */}
+   
     </div>
   );
 };

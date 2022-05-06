@@ -1,5 +1,8 @@
 
 /* font style / format for browser */
+
+
+
 @font-face {
     font-family: "Groovy";
     src: url(fonts/ChocoladineDemo.ttf) format("truetype");
@@ -11,9 +14,9 @@ video{
   height: auto;
   display: block;
  
-}
+} 
 
-/* .hero-box {
+.hero-box {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
@@ -23,12 +26,12 @@ video{
     align-items: start;
     height: 100%;
     width: 100%;
-  } */
+  } 
 
 
 .content{
-     /* position:relative; */
-    /* width:  90%;
+      position:relative; 
+     width:  90%;
     height: 10%;
 
    top: -400px;
@@ -37,7 +40,7 @@ video{
       flex-direction: column; 
    
      justify-content: center; 
-     align-items: center;    */
+     align-items: center;   
      
     
 
@@ -59,9 +62,10 @@ video{
     text-align: center;
     padding: 1rem;
     z-index: 10;
-  }
+  } */
 
 /* Spaceing/height in between the letters in hero heading */
+
 .hero-heading{
 
   font-size: 3rem;
@@ -105,4 +109,9 @@ video{
       font-family: "Groovy", sans-serif;
       text-shadow: 4px 6px 1px rgb(136, 20, 151);
     }
+
+
+
+
+    
 }
