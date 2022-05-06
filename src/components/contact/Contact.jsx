@@ -90,8 +90,8 @@ export const Contact = () => {
         </div>
       
         <div className="c-right">
-          <p className="c-desc">
-            <b>What’s your story?</b>  Want to create something awesome or just get in touch? Message Me.
+        <p className="c-desc">
+            <b>What's your story?</b>  Want to create something \nawesome or just get in touch? Message Me.
           </p>
           <form ref={formRef} onSubmit={sendEmail}>
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Name" name="user_name" />
