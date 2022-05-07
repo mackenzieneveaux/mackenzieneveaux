@@ -11,6 +11,7 @@ video{
 height: auto;
 display: block;
 
+
 }
 
 /* .hero-box {
@@ -59,6 +60,7 @@ display: block;
   text-align: center;
   padding: 1rem;
   z-index: 10;
+  
 }
 
 /* Spaceing/height in between the letters in hero heading */
@@ -106,3 +108,12 @@ text-shadow: 1px 6px 1px rgb(136, 20, 151);
     text-shadow: 4px 6px 1px rgb(136, 20, 151);
   }
 }
+
+@media only screen and (max-width: 1024px) {
+
+  .content {
+    
+ font-size: 1.3px; 
+    
+  }
+} 
