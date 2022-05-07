@@ -10,8 +10,8 @@ return (
   </video>
   < div className= "hero-text-box">
   <div className="content">         
-  {/* <h1 className="hero-heading"> ' You must be shapeless, formless, like water.' - Bruce Lee</h1> 
-   <p className="hero-text">Flow on with Mackenzie Neveaux's creative projects</p> */}
+  <h1 className="hero-heading"> ' You must be shapeless, formless, like water.' - Bruce Lee</h1> 
+   <p className="hero-text">Flow on with Mackenzie Neveaux's creative projects</p>
  </div> 
 </div>
 </div>
