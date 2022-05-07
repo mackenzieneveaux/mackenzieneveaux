@@ -106,6 +106,7 @@ text-shadow: 1px 6px 1px rgb(136, 20, 151);
     line-height: 4rem;
     font-family: "Groovy", sans-serif;
     text-shadow: 4px 6px 1px rgb(136, 20, 151);
+ 
   }
 }
 
@@ -114,6 +115,6 @@ text-shadow: 1px 6px 1px rgb(136, 20, 151);
   .content {
     
  font-size: 1.3px; 
-    
+
   }
 } 
