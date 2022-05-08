@@ -65,9 +65,9 @@ display: block;
 }
 
 /* Spaceing/height in between the letters in hero heading */
-.hero-heading{
+ .hero-heading{
 
-font-size: 3rem;
+font-size: 2rem;
 line-height: 3rem;
 letter-spacing: 0.02rem;
 font-weight: bold;
@@ -76,7 +76,7 @@ font-family: "Groovy", sans-serif;
 text-shadow: 1px 6px 1px rgb(136, 20, 151);
 
 
-}
+} 
 
 .hero-text {
   line-height: 1rem;
@@ -92,7 +92,7 @@ text-shadow: 1px 6px 1px rgb(136, 20, 151);
 
  @media (min-width: 600px) {
   .hero-heading {
-    font-size: 2rem;
+    font-size: 4rem;
     line-height: 3rem;
   }
   .hero-text {

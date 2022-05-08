@@ -129,7 +129,7 @@ send {
 @media only screen and (max-width: 600px) {
   .c-bg {
    
-      height: 53rem;
+      height: 40rem;
     position: absolute; 
   }
  
@@ -138,7 +138,7 @@ send {
 @media only screen and (min-width: 600px) {
   .c-bg {
    
-    /* height: 64rem; */
+    height: 64rem;
   position: absolute; 
 }
 
