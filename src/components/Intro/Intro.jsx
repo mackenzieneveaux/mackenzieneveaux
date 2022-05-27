@@ -1,5 +1,5 @@
 import "./intro.css";
-import computer from "../img/computer.png"
+// import computer from "../img/computer.png"
 import Resume from "../Resume";
 
 
@@ -35,7 +35,7 @@ import Resume from "../Resume";
 
 
     <div className="i-right">
-        <img src={computer} alt="" className="i-img" />
+        {/* <img src={computer} alt="" className="i-img" /> */}
       </div>
      </div>
    
