@@ -2,6 +2,7 @@ import React from 'react'
 import resume from '../components/resume.pdf'
 import "./resume.css"
 
+
 const Resume = () => {
   return (
     <div className='Resume'>
