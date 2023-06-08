@@ -1,5 +1,5 @@
 {
-  "homepage": "http://mackenzieneveaux.github.io/react_portfolio",
+  "homepage": "http://mackenzieneveaux.github.io/mackenzieneveaux",
   "name": "react-deploy",
   "version": "0.1.0",
   "private": true,
@@ -47,6 +47,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "2.1.1"
+    "gh-pages": "^2.1.1"
   }
 }
